@@ -16,6 +16,10 @@ Para executar o projeto, bastar seguir essas instruções:
   <li>A lista com as propriedades salvas será exibida.</li>
 </ul>
 
-## Print do Projeto
+## Prints do Projeto
 
+### Código fonte do projeto:
+<img src='https://user-images.githubusercontent.com/113109526/218266430-2bf0da59-e34e-445a-9b51-efb5992e9466.jpg' />
+
+### Projeto sendo executado:
 <img src="https://user-images.githubusercontent.com/113109526/218232570-ecc68008-faf7-4191-8d2d-e5379daf1acd.jpg" />
