@@ -1,8 +1,8 @@
-# Projeto Facilitando o dia a dia
+# Facilitando o dia a dia
 
-Projeto individual do módulo 5, desenvolvido com o intuito de auxiliar desenvolvedores no dia a dia com CSS. O projeto foi feito para ser executado através do terminal, utilizando Node.js.
+Projeto individual do módulo 5, criado com o intuito de auxiliar desenvolvedores no dia a dia com CSS, criando uma lista ordenada com as propriedades CSS. O projeto foi feito para ser executado através do terminal, utilizando Node.js.
 
-## Execução
+## Execução do Projeto
 
 Para executar o projeto, bastar seguir essas instruções:
 
@@ -16,4 +16,6 @@ Para executar o projeto, bastar seguir essas instruções:
   <li>A lista com as propriedades salvas será exibida.</li>
 </ul>
 
-## Prints do Projeto
+## Print do Projeto
+
+<img src="https://user-images.githubusercontent.com/113109526/218232570-ecc68008-faf7-4191-8d2d-e5379daf1acd.jpg" />
