@@ -1,19 +1,19 @@
 import redlineSync from 'readline-sync';
 import chalk from 'chalk';
 
-const lista = [];
+const listaProps = [];
 let resp = "";
 
-const adicionarNaLista = (prop) => {
-  lista.push(prop);
+const addProp = (prop) => {
+  listaProps.push(prop);
 };
 
-const ordenar = () => {
-  lista.sort();
+const ordenarProps = () => {
+  listaProps.sort();
 };
 
-const listar = () => {
-  lista.forEach((elemento)=> { console.log(`• ${elemento}`); });
+const listarProps = () => {
+  listaProps.forEach((elemento)=> { console.log(`• ${elemento}`); });
 };
 
 while (true) {
@@ -21,12 +21,12 @@ while (true) {
 
   if (resp.toLowerCase() == "sair") {
     console.log(chalk.bgRed('Lista Ordenada de Propriedades CSS: '));
-    ordenar();
-    listar();
+    ordenarProps();
+    listarProps();
     console.log(chalk.red('---------------------------------X---------------------------------'));
   break;
  
   } else if (resp.toLowerCase() !== "sair" && resp !=="") {
-    adicionarNaLista(resp);
+    addProp(resp);
   }
 }
